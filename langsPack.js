@@ -1,4 +1,4 @@
-//document.addEventListener("DOMContentLoaded", function(){
+document.addEventListener("DOMContentLoaded", function(){
     window.pickerLanguages = {
         'Czech': {
             days: ['Neděle', 'Pondělí', 'Úterý', 'Středa', 'Čtvrtek', 'Pátek', 'Sobota'],
@@ -229,5 +229,5 @@
             firstDay: 0
         }
     };
-//});
+});
 
