@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function(){
             timeFormat: 'HH:mm',
             firstDay: 1
         },
-        'German: {
+        'German': {
             days: ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'],
             daysShort: ['Son', 'Mon', 'Die', 'Mit', 'Don', 'Fre', 'Sam'],
             daysMin: ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa'],
